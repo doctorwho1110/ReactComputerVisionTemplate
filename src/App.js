@@ -58,6 +58,7 @@ function App() {
       // 5. TODO - Update drawing utility
       // drawSomething(obj, ctx)
       drawRect(obj,ctx);
+      
     }
   };
 
